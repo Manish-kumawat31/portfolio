@@ -29,7 +29,7 @@ const page = () => {
       id: 3,
       color: "from-purple-200 to-blue-200",
       title: "WONDERLUST-hotel management",
-      des: "lorem sddsfj jsdfjs  jksdf  kjens f jskdf sjkdf s nfdnsj fnkss",
+      des: "Wonderlust is an Airbnb-inspired hotel listing platform where users can explore stays, search listings, add new properties with image upload, view detailed pages with maps, and give ratings/reviews, built using Node.js, Express.js, MongoDB, EJS, and Mapbox.",
       img: "/wonderlust.png",
       githubLink: "https://github.com/Manish-kumawat31/Wonderlust-Project",
       liveLink: "https://wonderlust-project-gid0.onrender.com/listings"
