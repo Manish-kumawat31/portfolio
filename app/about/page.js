@@ -30,7 +30,7 @@ const page = () => {
             <h1 className='font-bold text-2xl'>
               BIOGRAPHY
             </h1>
-            <p className=' text-lg'>I’m Manish Kumawat, a Computer Engineering student and a MERN Stack developer. I enjoy building modern, responsive web applications and full-stack projects that solve real problems. I’m focused on improving my skills in React, Node.js, MongoDB, and backend development while working on impactful projects.</p>
+            <p className=' text-lg'>I’m Manish Kumawat, a Computer Engineering third year student and a MERN Stack developer. I enjoy building modern, responsive web applications and full-stack projects that solve real problems. I’m focused on improving my skills in React, Node.js, MongoDB, and backend development while working on impactful projects.</p>
             <span className=' italic'>“Code with purpose, build with passion.”</span>
             <div className=' self-end'>
               <svg xmlns="http://www.w3.org/2000/svg" width="150" height="50" viewBox="0 0 301 122" fill="none">

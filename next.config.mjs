@@ -1,11 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  /* config options here */
-
-  images:{
-    remotePatterns:[
+  output: 'export',
+  images: {
+    loader: 'custom',
+    loaderFile: './loader.js',
+    remotePatterns: [
       {
-        protocol:"https" , 
+        protocol: "https",
         hostname: "img.evbuc.com"
       }
     ]

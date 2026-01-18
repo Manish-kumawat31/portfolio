@@ -30,9 +30,9 @@ const page = () => {
       color: "from-purple-200 to-blue-200",
       title: "WONDERLUST-hotel management",
       des: "lorem sddsfj jsdfjs  jksdf  kjens f jskdf sjkdf s nfdnsj fnkss",
-      img: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172624518%2F2985546012255%2F1%2Foriginal.20251209-180951?crop=focalpoint&fit=crop&w=1000&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=1e2980219004eb7dc67dd0f40769c963",
+      img: "/wonderlust.png",
       githubLink: "https://github.com/Manish-kumawat31/Wonderlust-Project",
-      liveLink: "https://github.com/Manish-kumawat31/Wonderlust-Project"
+      liveLink: "https://wonderlust-project-gid0.onrender.com/listings"
     },
   ]
 
